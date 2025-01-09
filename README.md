@@ -1,4 +1,4 @@
-![logo](https://png.pngtree.com/thumb_back/fw800/background/20241013/pngtree-dark-blue-light-technology-technical-network-banner-background-wallpaper-image_16369814.jpg)
+![logo](https://github.com/AshwiniP-Hub/AshwiniP-Hub/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Ashwini Patil.</h1>
 <h3 align="center">A Creative Full Stack MERN Developer with a Passion for Building Dynamic Websites.</h3>
