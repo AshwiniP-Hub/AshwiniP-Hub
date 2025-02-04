@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [www.portfolio.link](www.portfolio.link)
+- 👨‍💻 All of my projects are available at [www.portfolio.link](https://ashwinipatilportfolio-dun.vercel.app)
 
 - 📝 I regularly write articles on [www.portfolio.link](www.portfolio.link)
 
