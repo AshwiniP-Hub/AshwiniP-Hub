@@ -11,19 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my own project [Infinite Library](githubinfinitelibryary)
+- 🔭 I’m currently working on my own project [Infinite Library](https://infinitelibraryapp.vercel.app)
 
 - 🌱 I’m currently learning **Backend development**
 
 - 👨‍💻 All of my projects are available at [www.portfolio.link](https://ashwinipatilportfolio-dun.vercel.app)
 
-- 📝 I regularly write articles on [www.portfolio.link](www.portfolio.link)
+- 📝 I regularly write articles on [www.portfolio.link](https://ashwinipatilportfolio-dun.vercel.app)
 
 - 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **ashwinivpatil4@gmail.com**
 
-- 📄 Know about my experiences [www.portfolio.link resume link](www.portfolio.link resume link)
+- 📄 Know about my experiences [www.portfolio.link resume link](https://github.com/AshwiniP-Hub/portfolio/blob/main/Frontend/public/Ashwini_Patil_resume.pdf)
 
 - ⚡ Fun fact **Look like strict person.**
 
